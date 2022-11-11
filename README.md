@@ -6,12 +6,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-<div>
-<a href="https://github.com/soaresAdalberto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresAdalberto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soaresAdalberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Contato:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adalberto-soares-a1284a230)
@@ -27,4 +21,10 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>]
           
-                    
+## Informações adicionais:
+
+<div>
+<a href="https://github.com/soaresAdalberto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresAdalberto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soaresAdalberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
