@@ -1,10 +1,7 @@
-![https://uemgedu-my.sharepoint.com/:i:/g/personal/adalberto_1696962_discente_uemg_br/ETqur0T0HE9Klcer4YPzmxgB5Yg5n6FpFX-czcwUd1qayg?e=JOPHhS]
 
-### Hi 👋 
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+# :shipit: Olá, mundo!
+
+Seja bem-vindo (a) ao meu perfil. Meu nome é Adalberto, sou estudante de Engenharia da Computação e assistente de informática. Aqui você poderá visualizar meus projetos, tecnologias na qual trabalho e os meios de comunicação que eu utilizo. Será uma honra ter você como seguidor! 
 
 ## Contato:
 
