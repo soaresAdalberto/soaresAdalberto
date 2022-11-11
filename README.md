@@ -6,7 +6,7 @@ Seja bem-vindo (a) ao meu perfil. Sou o Adalberto, estudante de Engenharia da Co
 ## Contato:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adalberto-soares-a1284a230)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/USERNAME/](https://instagram.com/soares.adalberto7?igshid=YmMyMTA2M2Y=)) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/soares.adalberto7?igshid=YmMyMTA2M2Y=)
 
 ## Tecnologias: 
 
