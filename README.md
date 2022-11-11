@@ -1,6 +1,6 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+[<img src="https://uemgedu-my.sharepoint.com/:i:/g/personal/adalberto_1696962_discente_uemg_br/ETqur0T0HE9Klcer4YPzmxgB5Yg5n6FpFX-czcwUd1qayg?e=JOPHhS" width="40" height="40"/>]
 
-### Hi 👋
+### Hi 👋 [<img src="https://uemgedu-my.sharepoint.com/:i:/g/personal/adalberto_1696962_discente_uemg_br/ETqur0T0HE9Klcer4YPzmxgB5Yg5n6FpFX-czcwUd1qayg?e=JOPHhS" width="40" height="40"/>]
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
