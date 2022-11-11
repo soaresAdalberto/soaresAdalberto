@@ -1,7 +1,7 @@
 
 # Olá, mundo! :desktop_computer:
 
-Seja bem-vindo (a) ao meu perfil. Sou o Adalberto, estudante de Engenharia da Computação e assistente de informática. Aqui você poderá visualizar meus projetos, tecnologias na qual trabalho e os meios de comunicação que eu utilizo. Será uma honra ter você como seguidor! 
+Seja bem-vindo (a) ao meu perfil. Sou o Adalberto, estudante de Engenharia da Computação e assistente de informática. Aqui você poderá visualizar meus projetos, tecnologias na qual trabalho e os meios de comunicação que utilizo. Será uma honra ter você como seguidor! 
 
 ## Contato:
 
