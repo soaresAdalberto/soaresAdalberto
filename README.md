@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adalberto-soares-a1284a230)
+![https://uemgedu-my.sharepoint.com/:i:/g/personal/adalberto_1696962_discente_uemg_br/ETqur0T0HE9Klcer4YPzmxgB5Yg5n6FpFX-czcwUd1qayg?e=JOPHhS]
 
 ### Hi 👋 
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
