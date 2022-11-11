@@ -1,5 +1,5 @@
 
-# :shipit: Olá, mundo!
+# Olá, mundo! :shipit:
 
 Seja bem-vindo (a) ao meu perfil. Meu nome é Adalberto, sou estudante de Engenharia da Computação e assistente de informática. Aqui você poderá visualizar meus projetos, tecnologias na qual trabalho e os meios de comunicação que eu utilizo. Será uma honra ter você como seguidor! 
 
