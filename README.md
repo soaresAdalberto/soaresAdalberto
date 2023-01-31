@@ -22,6 +22,6 @@ Seja bem-vindo (a) ao meu perfil. Sou o Adalberto, estudante de Engenharia da Co
 
 <div>
 <a href="https://github.com/soaresAdalberto">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresAdalberto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=soaresAdalberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresAdalberto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="129em" src="https://github-readme-stats.vercel.app/api?username=soaresAdalberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
