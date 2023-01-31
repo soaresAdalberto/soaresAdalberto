@@ -18,10 +18,4 @@ Seja bem-vindo (a) ao meu perfil. Sou o Adalberto, estudante de Engenharia da Co
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>](https://angular.io/docs)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>](https://pt-br.reactjs.org/docs/getting-started.html)
           
-## Informações adicionais:
 
-<div>
-<a href="https://github.com/soaresAdalberto">
-<img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresAdalberto&layout=compact&langs_count=7&theme=dracula"/>
-<img height="129em" src="https://github-readme-stats.vercel.app/api?username=soaresAdalberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
